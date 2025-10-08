@@ -6,9 +6,9 @@
 
 ###
 
-<div align="left">
+<!--<div align="left">
   <img height="200" src="https://github.com/Antonella-Bilotta/Antonella-Bilotta/blob/main/DSC_0485.JPG"  />
-</div>
+</div>-->
 
 ###
 
