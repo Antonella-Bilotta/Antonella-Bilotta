@@ -252,7 +252,7 @@
 
 ###
 
-<h3 align="left"><a href="https://www.ailalogica.it/attivita/scuola-estiva/archivio-scuola-estiva-aila/" target="_blank">AILA Summer School in Logic 2024</a></h3>
+<h3 align="left"><a href="https://www.ailalogica.it/attivita/scuola-estiva/archivio-scuola-estiva-aila/" target="_blank">AILA 2024 </a> Summer School in Logic</h3>
 
 ###
 
@@ -260,7 +260,7 @@
 
 ###
 
-<h3 align="left"><a href="https://sat-smt-ar-school.gitlab.io/www/2024/" target="_blank">SAT/SMT/AR</a> Summer School 2024</h3>
+<h3 align="left"><a href="https://sat-smt-ar-school.gitlab.io/www/2024/" target="_blank">SAT/SMT/AR 2024</a> Summer School</h3>
 
 ###
 
@@ -268,7 +268,7 @@
 
 ###
 
-<h3 align="left"><a href="https://2023.esslli.eu/" target="_blank">ESSLLI</a> Summer School 2023</h3>
+<h3 align="left"><a href="https://2023.esslli.eu/" target="_blank">ESSLLI 2023</a> Summer School </h3>
 
 ###
 
