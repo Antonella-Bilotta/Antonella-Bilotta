@@ -204,7 +204,7 @@
 
 ###
 
-<h3 align="left"><a href="https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php" target="_blank">Proof and Computation</a> Autumn School <a href="https://drive.google.com/file/d/1zW_XKooRUQB4VSnLRZtj7O4OL32e6L3U/view" target="_blank">*</a> <a href="https://drive.google.com/file/d/1oTVDXfu39iHO9_uB3icFMsmGqrzaEKvz/view" target="_blank">*</a></h3>
+<h3 align="left"><a href="https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php" target="_blank">Proof and Computation 2025</a> Autumn School <a href="https://drive.google.com/file/d/1zW_XKooRUQB4VSnLRZtj7O4OL32e6L3U/view" target="_blank">*</a> <a href="https://drive.google.com/file/d/1oTVDXfu39iHO9_uB3icFMsmGqrzaEKvz/view" target="_blank">*</a></h3>
 
 ###
 
