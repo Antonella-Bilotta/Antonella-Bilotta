@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 <strong>PhD Student in Logic</strong> at <i>Scuola Normale Superiore di Pisa</i>.<br>🎯 <strong>Code Developer</strong> and one of the <strong>main contributors</strong> of the  <a href="https://holms-lib.github.io/" target="_blank">HOLMS Framework</a>.<br><br>✨ More than anything, I would define myself as a curious person, always seeking new instruments to understand the world and the<br>human way of interpreting it.</p>
+<p align="left">📚 <strong>PhD Student in Logic</strong> at <i>Scuola Normale Superiore di Pisa</i>.<br>🎯 <strong>Code Developer</strong> and one of the <strong>main contributors</strong> of the  <a href="https://holms-lib.github.io/" target="_blank">HOLMS Framework</a>.<br> 📄 Here you can find my <a href="https://drive.google.com/file/d/1SsMioJgtVcMccLc7kosLzoeiTFdxIfOW/view?usp=sharing" target="_blank">Long CV</a>.<br><br>✨ More than anything, I would define myself as a curious person, always seeking new instruments to understand the world and the<br>human way of interpreting it.</p>
 
 ###
 
