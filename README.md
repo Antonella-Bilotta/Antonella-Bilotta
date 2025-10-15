@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, T, B, S4, S5, and GL, and we are working on on further extensions of the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <i>OVERLAY 2024</i>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, which I presented at <i><strong>ICTCS 2025</strong></i>;<br>- An extended paper, currently under review.</p>
+<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, T, B, S4, S5, and GL, and we are working on on further extensions of the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, which I presented at <strong><i>ICTCS 2025</i></strong>;<br>- An extended paper, accepted at <strong><i>CSL 26</i></strong>.</p>
 
 ###
 
@@ -76,11 +76,19 @@
 
 ###
 
+<h4 align="left">2026 &nbsp;<i>A modular framework for proof-search via formalised modal completeness in HOL Light (To appear)</i></h4>
+
+###
+
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "A modular framework for proof-search via formalised modal completeness in HOL Light", Accepted at CSL 2026, <i>To appear</i>.</p>
+
+###
+
 <h4 align="left">2025 &nbsp;<i><a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">A modular proof of semantic completeness for normal systems beyond the modal cube, formalised in HOLMS</a></i></h4>
 
 ###
 
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2025, <i>A modular proof of semantic completeness for normal systems beyond the modal cube, formalised in HOLMS</i>, Accepted at ICTCS 2025, <i>To appear</i>.</p>
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2025, "A modular proof of semantic completeness for normal systems beyond the modal cube, formalised in HOLMS", <i>Proceedings of the 26th Italian Conference on Theoretical Computer Science, ICTCS 2025</i>, volume 4039 of CEUR Workshop Proceedings, pp. 154-162 .</p>
 
 ###
 
@@ -88,7 +96,7 @@
 
 ###
 
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2025, <i>Growing a Modular Framewok for Modal Systems: HOLMS</i>, Book of Abstract of Women in Logic 2025,  pages 7-11.</p>
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2025, "Growing a Modular Framewok for Modal Systems: HOLMS", <i>Book of Abstract of Women in Logic 2025</i>,  pp. 7-11.</p>
 
 ###
 
@@ -96,7 +104,7 @@
 
 ###
 
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, L. Quartini, 2024, <i>Growing HOLMS, a HOL Light Library for Modal Systems</i>, Short Paper Proceedings of the 6th International Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis, OVERLAY 2024, volume 3904 of CEUR Workshop Proceedings, pages 41–48.</p>
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, L. Quartini, 2024, "Growing HOLMS, a HOL Light Library for Modal Systems", <i>Short Paper Proceedings of the 6th International Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis, OVERLAY 2024</i>, volume 3904 of CEUR Workshop Proceedings, pp. 41–48.</p>
 
 ###
 
