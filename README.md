@@ -116,7 +116,7 @@
 
 ###
 
-<h3 align="left">PhD in Logic</h3>
+<h3 align="left">PhD Student in Logic</h3>
 
 ###
 
