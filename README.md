@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">Email: antonella.bilotta@edu.unifi.it</h5>
+<h5 align="left">Email: antonella.bilotta@sns.it</h5>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 <strong>PhD Student in Logic</strong> at <i>Scuola Normale Superiore di Pisa</i>.<br>🎯 <strong>Code Developer</strong> and one of the <strong>main contributors</strong> of the  <a href="https://holms-lib.github.io/" target="_blank">HOLMS Framework</a>.<br> 📄 Here you can find my <a href="https://drive.google.com/file/d/1SsMioJgtVcMccLc7kosLzoeiTFdxIfOW/view?usp=sharing" target="_blank">Long CV</a>.<br><br>✨ More than anything, I would define myself as a curious person, always seeking new instruments to understand the world and the<br>human way of interpreting it.</p>
+<p align="left">📚 <strong>PhD Student in Logic</strong> at <i>Scuola Normale Superiore di Pisa</i>.<br>🎯 <strong>Code Developer</strong> and one of the <strong>main contributors</strong> of the  <a href="https://holms-lib.github.io/" target="_blank">HOLMS Framework</a>.<br> 📄 Here you can find my <a href="https://drive.google.com/file/d/1SsMioJgtVcMccLc7kosLzoeiTFdxIfOW/view?usp=sharing" target="_blank">long CV</a>, my <a href="https://www.sns.it/en/persona/antonella-bilotta" target="_blank">SNS institutional webpage</a>, my <a href="https://dblp.org/pid/395/7262.html" target="_blank">DBLP webpage</a> and my <a href="https://scholar.google.com/citations?hl=en&user=c96K1XAAAAAJ" target="_blank">Google Scholar webpage</a>.<br><br>✨ More than anything, I would define myself as a curious person, always seeking new instruments to understand the world and the<br>human way of interpreting it.</p>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, T, B, S4, S5, and GL, and we are working on on further extensions of the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, which I presented at <strong><i>ICTCS 2025</i></strong>;<br>- An extended paper, accepted at <strong><i>CSL 26</i></strong>.</p>
+<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, T, B, S4, S5, and GL, and we are working on on further extensions of the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, which I presented at <strong><i>ICTCS 2025</i></strong>;<br>- An extended paper describing the whole framework and introducing certified countermodels, accepted at <strong><i>CSL 26</i></strong>.</p>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h4 align="left">2025 &nbsp;<i><a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EdtzuTRYSm5DrdTU-XglSP8BZkR4N-x_KauVp2YiEsrqgg?e=IpzlMM" target="_blank">"Growing a Modular Framewok for Modal Systems: HOLMS"</a></i></h4>
+<h4 align="left">2025 &nbsp;<i><a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EdtzuTRYSm5DrdTU-XglSP8BZkR4N-x_KauVp2YiEsrqgg?e=IpzlMM" target="_blank">Growing a Modular Framewok for Modal Systems: HOLMS</a></i></h4>
 
 ###
 
@@ -124,7 +124,7 @@
 
 ###
 
-<p align="left">My proposed research project, which has been formally approved as the basis of my doctoral work, builds upon my Master’s thesis on the modular mechanisation of modal logics.<br>&nbsp;</p>
+<p align="left"> My proposed <strong>PhD project</strong> aims to further extend this work, by <strong>mechanising additional modal logics</strong> (e.g. provability and intuitionistic logics) and developing a <strong>proof-theoretic analysis</strong> within the framework. I also intend to <strong>investigate various sequent calculi</strong> for modal logics and to deepen my <strong>philosophical reflection</strong> on the role of theorem provers in the context of mathematical knowldedge.<br>&nbsp;</p>
 
 ###
 
@@ -200,7 +200,7 @@
 
 ###
 
-<p align="left">Member of the EC-COST Action (CA20111) <a href="https://europroofnet.github.io/" target="_blank">European research network on formal proof (EuroProofNet)<a>.<br>Member of the Working Groups <i>ATPs</i>, <i>Program verification</i>, <i>Libraries of formal proofs</i>.<br>Selected for in-person participation (with reimbursement) in the <i>EuroProofNet School on Natural Language Formalizations (SoNaLF)</i>, June 2025, Bonn, Germany.</p>
+<p align="left">Member of the EC-COST Action (CA20111) <a href="https://europroofnet.github.io/" target="_blank">European research network on formal proof (EuroProofNet)<a>.<br>Member of the Working Groups <i>ATPs</i>, <i>Program verification</i>, <i>Libraries of formal proofs</i>.<br>Selected for in-person participation (with reimbursement) in the <i>EuroProofNet School on Natural Formal Mathematics</i>, June 2025, Bonn, Germany.</p>
 
 ###
 
