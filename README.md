@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🇮🇹 <strong>Italian</strong>: Mother tongue<br><br>🇬🇧 <strong>English</strong>: Listening C2, Reading C2,  Writing C1, Speaking C1<br>Certified by IELTS (TRF: 25IT502528BILA010A) obtained on 24/04/2025.<br><br>🇫🇷 <strong>French</strong>: Listening B1, Reading B1,  Writing A2, Speaking A2</p>
+<p align="left">🇮🇹 <strong>Italian</strong>: Mother tongue<br><br>🇬🇧 <strong>English</strong>: Listening C2, Reading C2,  Writing C1, Speaking C1<br>Certified by IELTS (TRF: 25IT502528BILA010A) obtained on 24/04/2025.<br><br>🇫🇷 <strong>French</strong>: Listening B2, Reading B2,  Writing B1, Speaking B1</p>
 
 ###
 
