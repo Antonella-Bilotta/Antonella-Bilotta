@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, T, B, S4, S5, and GL, and we are working on on further extensions of the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, which I presented at <strong><i>ICTCS 2025</i></strong>;<br>- An extended paper describing the whole framework and introducing certified countermodels, accepted at <strong><i>CSL 26</i></strong>.</p>
+<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, T, B, S4, S5, and GL, and we are working on on further extensions of the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, presented by me at <strong><i>ICTCS 2025</i></strong>;<br>- An <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.18" target="_blank">extended paper</a> describing the whole framework and introducing certified countermodels, presented by me at <strong><i>CSL 26</i></strong>.</p>
 
 ###
 
@@ -76,11 +76,11 @@
 
 ###
 
-<h4 align="left">2026 &nbsp;<i>A modular framework for proof-search via formalised modal completeness in HOL Light (To appear)</i></h4>
+<h4 align="left">2026 &nbsp;<i><a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.18" target="_blank">A modular framework for proof-search via formalised modal completeness in HOL Light</a></i></h4>
 
 ###
 
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "A modular framework for proof-search via formalised modal completeness in HOL Light", Accepted at CSL 2026, <i>To appear</i>.</p>
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "A modular framework for proof-search via formalised modal completeness in HOL Light", <i>Proceedings of the 34th EACSL Annual Conference on Computer Science Logic (CSL 26)</i>, Volume 363 of Leibniz International Proceedings in Informatics (LIPIcs), pp. 18:1–18:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik.</p>
 
 ###
 
@@ -132,7 +132,7 @@
 
 ###
 
-<h5 align="left">Università degli Studi di Firenze  &nbsp;[ Sep 2022 – Apr 2025] &nbsp;Florence, Italy</h5>
+<h5 align="left">Università degli Studi di Firenze  &nbsp;[ Sep 2022 – Apr 2025 ] &nbsp;Florence, Italy</h5>
 
 ###
 
@@ -152,7 +152,7 @@
 
 ###
 
-<h5 align="left">Università degli Studi di Torino &nbsp;[ Oct 2019 – Jul 2022] &nbsp;Turin, Italy</h5>
+<h5 align="left">Università degli Studi di Torino &nbsp;[ Oct 2019 – Jul 2022 ] &nbsp;Turin, Italy</h5>
 
 ###
 
@@ -168,7 +168,7 @@
 
 ###
 
-<h5 align="left">Liceo Scientifico Giolitti Gandino &nbsp;[ Sep 2014 – Jul 2019] &nbsp;Bra, Italy</h5>
+<h5 align="left">Liceo Scientifico Giolitti Gandino &nbsp;[ Sep 2014 – Jul 2019 ] &nbsp;Bra, Italy</h5>
 
 ###
 
@@ -177,6 +177,18 @@
 ###
 
 <h2 align="left">Networks and Memberships</h2>
+
+###
+
+<h3 align="left">EACSL</h3>
+
+###
+
+<h5 align="left">[ Feb 2026 – Current ]</h5>
+
+###
+
+<p align="left">Member of the <a href="https://www.eacsl.org/" target="_blank">European Association for Computer Science Logic (EACSL)</a>.</p>
 
 ###
 
@@ -212,11 +224,20 @@
 
 ###
 
+<h3 align="left"><a href="https://csl2026.github.io/" target="_blank">CSL 2026</a> <i>(EACSL Annual Conference on
+Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0oBK40Y4-G_w-lDC_ALxwC/view?usp=sharing" target="_blank">*</a> and <a href="https://logic-mentoring-workshop.github.io/csl26/" target="_blanl">Logic Mentoring Workshop</a></h3>
+
+###
+
+<h5 align="left">[ 23 Feb 2026 – 27 Feb 2026 ] &nbsp;Paris, FR</h5>
+
+###
+
 <h3 align="left"><a href="https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php" target="_blank">Proof and Computation 2025</a> Autumn School <a href="https://drive.google.com/file/d/1zW_XKooRUQB4VSnLRZtj7O4OL32e6L3U/view" target="_blank">*</a> <a href="https://drive.google.com/file/d/1oTVDXfu39iHO9_uB3icFMsmGqrzaEKvz/view" target="_blank">*</a></h3>
 
 ###
 
-<h5 align="left">[15 Sep 2025 – 19 Sep 2025 ] &nbsp;Herrsching am Ammersee, DE</h5>
+<h5 align="left">[ 15 Sep 2025 – 19 Sep 2025 ] &nbsp;Herrsching am Ammersee, DE</h5>
 
 ###
 
@@ -232,7 +253,7 @@
 
 ###
 
-<h5 align="left">[ 14 Jul 2025 – 18 Jul 2025] &nbsp;Birmingham, UK</h5>
+<h5 align="left">[ 14 Jul 2025 – 18 Jul 2025 ] &nbsp;Birmingham, UK</h5>
 
 ###
 
