@@ -174,45 +174,6 @@
 
 <h5 align="left">Grade: 100/100 Cum Laude. Merit scholarship for academic performance,  &nbsp;&nbsp;&nbsp;EQF: 4</h5>
 
-###
-
-<h2 align="left">Networks and Memberships</h2>
-
-###
-
-<h3 align="left">EACSL</h3>
-
-###
-
-<h5 align="left">[ Feb 2026 – Current ]</h5>
-
-###
-
-<p align="left">Member of the <a href="https://www.eacsl.org/" target="_blank">European Association for Computer Science Logic (EACSL)</a>.</p>
-
-###
-
-<h3 align="left">EATCS and Italian Chapter</h3>
-
-###
-
-<h5 align="left">[ Sep 2025 – Current ]</h5>
-
-###
-
-<p align="left">Member of the <a href="https://www.eatcs.org/" target="_blank">European Association for Theoretical Computer Science (EATCS)</a> and of its <a href="https://www.eatcs.org/index.php/italian-chapter" target="_blank">Italian Chapter</a>.</p>
-
-###
-
-<h3 align="left">COST Action CA20111 – EuroProofNet</h3>
-
-###
-
-<h5 align="left">[ Apr 2025 – Current ]</h5>
-
-###
-
-<p align="left">Member of the EC-COST Action (CA20111) <a href="https://europroofnet.github.io/" target="_blank">European research network on formal proof (EuroProofNet)<a>.<br>Member of the Working Groups <i>ATPs</i>, <i>Program verification</i>, <i>Libraries of formal proofs</i>.<br>Selected for in-person participation (with reimbursement) in the <i>EuroProofNet School on Natural Formal Mathematics</i>, June 2025, Bonn, Germany.</p>
 
 ###
 
@@ -304,3 +265,43 @@ Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0
 <h5 align="left">[ 31 Jul 2023 – 11 Aug 2023 ] &nbsp;Ljubljana, SLO</h5>
 
 ###
+
+###
+
+<h2 align="left">Networks and Memberships</h2>
+
+###
+
+<h3 align="left">EACSL</h3>
+
+###
+
+<h5 align="left">[ Feb 2026 – Current ]</h5>
+
+###
+
+<p align="left">Member of the <a href="https://www.eacsl.org/" target="_blank">European Association for Computer Science Logic (EACSL)</a>.</p>
+
+###
+
+<h3 align="left">EATCS and Italian Chapter</h3>
+
+###
+
+<h5 align="left">[ Sep 2025 – Current ]</h5>
+
+###
+
+<p align="left">Member of the <a href="https://www.eatcs.org/" target="_blank">European Association for Theoretical Computer Science (EATCS)</a> and of its <a href="https://www.eatcs.org/index.php/italian-chapter" target="_blank">Italian Chapter</a>.</p>
+
+###
+
+<h3 align="left">COST Action CA20111 – EuroProofNet</h3>
+
+###
+
+<h5 align="left">[ Apr 2025 – Current ]</h5>
+
+###
+
+<p align="left">Member of the EC-COST Action (CA20111) <a href="https://europroofnet.github.io/" target="_blank">European research network on formal proof (EuroProofNet)<a>.<br>Member of the Working Groups <i>ATPs</i>, <i>Program verification</i>, <i>Libraries of formal proofs</i>.<br>Selected for in-person participation (with reimbursement) in the <i>EuroProofNet School on Natural Formal Mathematics</i>, June 2025, Bonn, Germany.</p>
