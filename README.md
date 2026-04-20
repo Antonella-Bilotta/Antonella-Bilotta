@@ -185,6 +185,15 @@
 
 ###
 
+<h3 align="left"><a href="https://ps60.logicverona.it/" target="_blank">Taming the Infinite: Logic, Algebra and Constructive Mathematics</a>
+
+###
+
+<h5 align="left">[ 20 Apr 2026 ] &nbsp; Verona, IT</h5>
+
+
+###
+
 <h3 align="left"><a href="https://csl2026.github.io/" target="_blank">CSL 2026</a> <i>(EACSL Annual Conference on
 Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0oBK40Y4-G_w-lDC_ALxwC/view?usp=sharing" target="_blank">*</a> and <a href="https://logic-mentoring-workshop.github.io/csl26/" target="_blanl">Logic Mentoring Workshop</a></h3>
 
