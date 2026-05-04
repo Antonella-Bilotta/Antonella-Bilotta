@@ -124,7 +124,7 @@
 
 ###
 
-<p align="left"> My proposed <strong>PhD project</strong> aims to further extend this work, by <strong>mechanising additional modal logics</strong> (e.g. provability and intuitionistic logics) and developing a <strong>proof-theoretic analysis</strong> within the framework. I also intend to <strong>investigate various sequent calculi</strong> for modal logics and to deepen my <strong>philosophical reflection</strong> on the role of theorem provers in the context of mathematical knowldedge.<br>&nbsp;</p>
+<p align="left"> My proposed <strong>PhD project</strong> aims to further extend this work, by <strong>mechanising additional modal logics</strong> (e.g. provability and intuitionistic logics) and developing a <strong>proof-theoretic analysis</strong> within the framework. I also intend to <strong>investigate various sequent calculi</strong> for modal logics, and to deepen my <strong>philosophical and technical reflection</strong> on the role of <strong> theorem provers and their integrations with LLMs</strong>  (autoformalisation and self-learning loops) in mathematical practice.<br>&nbsp;</p>
 
 ###
 
@@ -177,7 +177,7 @@
 
 ###
 
-<h2 align="left">Conferences and Seminars</h2>
+<h2 align="left">Conferences, Schools and Seminars</h2>
 
 ###
 
@@ -185,12 +185,7 @@
 
 ###
 
-<h3 align="left"><a href="https://ps60.logicverona.it/" target="_blank">Taming the Infinite: Logic, Algebra and Constructive Mathematics</a>
-
-###
-
-<h5 align="left">[ 20 Apr 2026 ] &nbsp; Verona, IT</h5>
-
+<h2 align="left">Talks & Conferences</h2>
 
 ###
 
@@ -200,14 +195,6 @@ Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0
 ###
 
 <h5 align="left">[ 23 Feb 2026 – 27 Feb 2026 ] &nbsp;Paris, FR</h5>
-
-###
-
-<h3 align="left"><a href="https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php" target="_blank">Proof and Computation 2025</a> Autumn School <a href="https://drive.google.com/file/d/1zW_XKooRUQB4VSnLRZtj7O4OL32e6L3U/view" target="_blank">*</a> <a href="https://drive.google.com/file/d/1oTVDXfu39iHO9_uB3icFMsmGqrzaEKvz/view" target="_blank">*</a></h3>
-
-###
-
-<h5 align="left">[ 15 Sep 2025 – 19 Sep 2025 ] &nbsp;Herrsching am Ammersee, DE</h5>
 
 ###
 
@@ -227,19 +214,48 @@ Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0
 
 ###
 
-<h3 align="left"><a href="https://naproche.github.io/school/" target="_blank">EuroProofNet School on Natural Formal Mathematics</a></h3>
-
-###
-
-<h5 align="left">[ 3 Jun 2025 – 5 Jun 2025 ] &nbsp;Bonn, DE</h5>
-
-###
-
 <h3 align="left"><a href="https://overlay.uniud.it/workshop/2024/" target="_blank">OVERLAY 2024<a> (<i>Artificial Intelligence, Formal Verification, Logic, Automata, and Synthesis.</i>)</h3>
 
 ###
 
 <h5 align="left">[ 28 Nov 2024 – 29 Nov 2024 ] &nbsp;Bolzano, IT</h5>
+
+###
+
+
+<h2 align="left">Schools, Workshops and Seminars</h2>
+
+###
+
+<h3 align="left"><a href="https://aitpm.github.io/" target="_blank">Workshop on AI and Theorem Provers in Mathematics</a>
+
+###
+<h5 align="left">[ 8-10 Apr 2026 ] &nbsp; Online </h5>
+
+###
+
+
+<h3 align="left"><a href="https://ps60.logicverona.it/" target="_blank">Taming the Infinite: Logic, Algebra and Constructive Mathematics</a>
+
+###
+
+<h5 align="left">[ 20 Apr 2026 ] &nbsp; Verona, IT</h5>
+
+###
+
+<h3 align="left"><a href="https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php" target="_blank">Proof and Computation 2025</a> Autumn School <a href="https://drive.google.com/file/d/1zW_XKooRUQB4VSnLRZtj7O4OL32e6L3U/view" target="_blank">*</a> <a href="https://drive.google.com/file/d/1oTVDXfu39iHO9_uB3icFMsmGqrzaEKvz/view" target="_blank">*</a></h3>
+
+###
+
+<h5 align="left">[ 15 Sep 2025 – 19 Sep 2025 ] &nbsp;Herrsching am Ammersee, DE</h5>
+
+###
+
+<h3 align="left"><a href="https://naproche.github.io/school/" target="_blank">EuroProofNet School on Natural Formal Mathematics</a></h3>
+
+###
+
+<h5 align="left">[ 3 Jun 2025 – 5 Jun 2025 ] &nbsp;Bonn, DE</h5>
 
 ###
 
