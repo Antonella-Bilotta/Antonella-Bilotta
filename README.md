@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 <strong>PhD Student in Logic</strong> at <i>Scuola Normale Superiore di Pisa</i>.<br>🎯 <strong>Code Developer</strong> and one of the <strong>main contributors</strong> of the  <a href="https://holms-lib.github.io/" target="_blank">HOLMS Framework</a>.<br> 📄 Here you can find my <a href="https://drive.google.com/file/d/1SsMioJgtVcMccLc7kosLzoeiTFdxIfOW/view?usp=sharing" target="_blank">long CV</a>, my <a href="https://www.sns.it/en/persona/antonella-bilotta" target="_blank">SNS institutional webpage</a>, my <a href="https://dblp.org/pid/395/7262.html" target="_blank">DBLP webpage</a> and my <a href="https://scholar.google.com/citations?hl=en&user=c96K1XAAAAAJ" target="_blank">Google Scholar webpage</a>.<br><br>✨ More than anything, I would define myself as a curious person, always seeking new instruments to understand the world and the<br>human way of interpreting it.</p>
+<p align="left">📚 <strong>PhD Student in Logic</strong> at <i>Scuola Normale Superiore di Pisa</i>.<br>🎯 <strong>Code Developer</strong> and one of the <strong>main contributors</strong> of the  <a href="https://holms-lib.github.io/" target="_blank">HOLMS Framework</a>.<br> 📄 Here you can find my <a href="https://drive.google.com/drive/folders/1BjcU0L3UwRSKVFsSrAt5b_nuH3ll37S7?usp=sharing" target="_blank">long CV</a>, my <a href="https://www.sns.it/en/persona/antonella-bilotta" target="_blank">SNS institutional webpage</a>, my <a href="https://dblp.org/pid/395/7262.html" target="_blank">DBLP webpage</a> and my <a href="https://scholar.google.com/citations?hl=en&user=c96K1XAAAAAJ" target="_blank">Google Scholar webpage</a>.<br><br>✨ More than anything, I would define myself as a curious person, always seeking new instruments to understand the world and the<br>human way of interpreting it.</p>
 
 ###
 
@@ -399,3 +399,25 @@ Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0
 ###
 
 <p align="left">Member of the EC-COST Action (CA20111) <a href="https://europroofnet.github.io/" target="_blank">European research network on formal proof (EuroProofNet)<a>.<br>Member of the Working Groups <i>ATPs</i>, <i>Program verification</i>, <i>Libraries of formal proofs</i>.<br>Selected for in-person participation (with reimbursement) in the <i>EuroProofNet School on Natural Formal Mathematics</i>, June 2025, Bonn, Germany.</p>
+
+###
+
+<h2> Popularisation and Dissemination </h2>
+
+###
+<h3 align="left"><a href="https://www.instagram.com/p/DY4hx2ZD9yQ/" target="_blank"> ISPIRA Project</a></h3>
+
+<h5 align="left">[ Feb 2026 – Current ] Pisa and Vecchiano, IT</h5>
+
+<p> Popularisation project for middle-school students to promote the participation of women in science, organised by Scuola Normale. </p>
+
+###
+<h3 align="left"><a href="https://www.instagram.com/incontri_galileiani/" target="_blank"> Incontri Galileiani </a></h3>
+
+<h5 align="left">[ Nov 2024 ] Firenze, IT</h5>
+
+<p> Participation in the organisation of four seminars on science and literature, funded by the University of Florence. </p>
+
+
+
+
