@@ -56,61 +56,6 @@
 
 ###
 
-<h2 align="left">Research Projects</h2>
-
-###
-
-<h3 align="left">HOLMS: HOL Light Library for Modal Systems</h3>
-
-###
-
-<h5 align="left">[ Aug 2024 – Current ]</h5>
-
-###
-
-<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, T, B, S4, S5, and GL, toghether with Grz implemented via modal translations. We aim to further extend the framework by mechanising additional modal logics (e.g., provability and intuitionistic logics), experimenting with different mechanisation techniques (e.g., modal translations), and developing a proof-theoretic analysis within the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, presented at <strong><i>ICTCS 2025</i></strong>;<br>- An <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.18" target="_blank">extended paper</a> describing the whole framework and introducing certified countermodels, presented at <strong><i>CSL 26</i></strong>;<br>- An extended paper experimenting with modal translations and implementing Grz, accepted at <strong><i>IJCAR 26</i></strong>.</p>
-
-###
-
-<h2 align="left">Publications</h2>
-
-###
-
-<h4 align="left">2026 &nbsp;<i><a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.18" target="_blank">A modular framework for proof-search via formalised modal completeness in HOL Light</a></i></h4>
-
-###
-
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "A modular framework for proof-search via formalised modal completeness in HOL Light", <i>Proceedings of the 34th EACSL Annual Conference on Computer Science Logic (CSL 26)</i>, Volume 363 of Leibniz International Proceedings in Informatics (LIPIcs), pp. 18:1–18:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik.</p>
-
-###
-
-<h4 align="left">2025 &nbsp;<i><a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">A modular proof of semantic completeness for normal systems beyond the modal cube, formalised in HOLMS</a></i></h4>
-
-###
-
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2025, "A modular proof of semantic completeness for normal systems beyond the modal cube, formalised in HOLMS", <i>Proceedings of the 26th Italian Conference on Theoretical Computer Science, ICTCS 2025</i>, volume 4039 of CEUR Workshop Proceedings, pp. 154-162 .</p>
-
-###
-
-<h4 align="left">2025 &nbsp;<i><a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EdtzuTRYSm5DrdTU-XglSP8BZkR4N-x_KauVp2YiEsrqgg?e=IpzlMM" target="_blank">Growing a Modular Framewok for Modal Systems: HOLMS</a></i></h4>
-
-###
-
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2025, "Growing a Modular Framewok for Modal Systems: HOLMS", <i>Book of Abstract of Women in Logic 2025</i>,  pp. 7-11.</p>
-
-###
-
-<h4 align="left">2024 &nbsp;<i><a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">Growing HOLMS, a HOL Light Library for Modal Systems</a></i></h4>
-
-###
-
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, L. Quartini, 2024, "Growing HOLMS, a HOL Light Library for Modal Systems", <i>Short Paper Proceedings of the 6th International Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis, OVERLAY 2024</i>, volume 3904 of CEUR Workshop Proceedings, pp. 41–48.</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Antonella-Bilotta/Antonella-Bilotta/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="left">Education</h2>
 
@@ -160,7 +105,8 @@
 
 ###
 
-<p align="left">I initially studied various branches of philosophy, as well as logic and history.<br>I then focused my studies on <strong>philosophy of mathematics</strong>, <strong>philosophy of science</strong>, and <strong>mathematical logic</strong>. <br>Additionally, I took <strong>extra courses in the <i>Department of Mathematics</i></strong>, including: algebra 1, analysis 1, computer science (C++) and foundations of mathematics.<br><br>This multidisciplinary approach enabled me to write a <strong>thesis</strong> exploring the formalist perspective and Hilbert’s contributions to the foundations and philosophy of mathematics.<br>&nbsp;</p>
+<p align="left">I initially studied various branches of philosophy, as well as logic and history.<br>I then focused my studies on <strong>philosophy of mathematics</strong>, <strong>philosophy of science</strong>, and <strong>mathematical logic</strong>. <br>Additionally, I took <strong>extra courses in the <i>Department of Mathematics</i></strong>, including: algebra 1, analysis 1, computer science (C++) and foundations of mathematics. 
+This multidisciplinary approach enabled me to write a <strong>thesis</strong> exploring the formalist perspective and Hilbert’s contributions to the foundations and philosophy of mathematics.<br>&nbsp;</p>
 
 ###
 
@@ -177,15 +123,152 @@
 
 ###
 
-<h2 align="left">Conferences, Schools and Seminars</h2>
+<h2 align="left">Research Projects</h2>
 
 ###
 
-<p align="left">Note: Below is a list of conferences, summer schools, and workshops I have attended. Events where I presented a paper or talk are marked with an asterisk (*), and the slides for these presentations are attached to the corresponding asterisk.</p>
+<h3 align="left">HOLMS: HOL Light Library for Modal Systems</h3>
 
 ###
 
-<h2 align="left">Talks & Conferences</h2>
+<h5 align="left">[ Aug 2024 – Current ]</h5>
+
+###
+
+<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, D, T, B, S4, S5, and GL, toghether with Grz implemented via modal translations. We aim to further extend the framework by mechanising additional modal logics (e.g., provability and intuitionistic logics), experimenting with different mechanisation techniques (e.g., modal translations), and developing a proof-theoretic analysis within the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, presented at <strong><i>ICTCS 2025</i></strong>;<br>- An <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.18" target="_blank">extended paper</a> describing the whole framework and introducing certified countermodels, presented at <strong><i>CSL 26</i></strong>;<br>- An <a href="https://flore.unifi.it/handle/2158/1473915" target="_blank">extended paper </a> experimenting with modal translations and implementing Grz, accepted at <strong><i>IJCAR 26</i></strong>.</p>
+
+###
+
+<h2 align="left">Publications</h2>
+
+###
+<h3 align="left"> In Conference Proceedings</h3>
+
+###
+<h4 align="left">2026, forthcoming &nbsp;<i><a href="https://flore.unifi.it/handle/2158/1473915" target="_blank"> Growing HOLMS: A Verified Automated Prover for Grzegorczyk Logic in HOL Light</a></i></h4>
+
+###
+
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "Growing HOLMS: A Verified Automated Prover for Grzegorczyk Logic in HOL Light", <i>In Proceedings of the International Joint Conference on Automated Reasoning (IJCAR 2026)</i>
+July 26-29, 2026, Lisbon (Portugal).</p>
+
+###
+
+<h4 align="left">2026 &nbsp;<i><a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.18" target="_blank">A modular framework for proof-search via formalised modal completeness in HOL Light</a></i></h4>
+
+###
+
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "A modular framework for proof-search via formalised modal completeness in HOL Light", <i>Proceedings of the 34th EACSL Annual Conference on Computer Science Logic (CSL 26)</i>, Volume 363 of Leibniz International Proceedings in Informatics (LIPIcs), pp. 18:1–18:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik.</p>
+
+###
+
+<h4 align="left">2025 &nbsp;<i><a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">A modular proof of semantic completeness for normal systems beyond the modal cube, formalised in HOLMS</a></i></h4>
+
+###
+
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2025, "A modular proof of semantic completeness for normal systems beyond the modal cube, formalised in HOLMS", <i>Proceedings of the 26th Italian Conference on Theoretical Computer Science, ICTCS 2025</i>, volume 4039 of CEUR Workshop Proceedings, pp. 154-162 .</p>
+
+###
+
+<h4 align="left">2024 &nbsp;<i><a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">Growing HOLMS, a HOL Light Library for Modal Systems</a></i></h4>
+
+###
+
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, L. Quartini, 2024, "Growing HOLMS, a HOL Light Library for Modal Systems", <i>Short Paper Proceedings of the 6th International Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis, OVERLAY 2024</i>, volume 3904 of CEUR Workshop Proceedings, pp. 41–48.</p>
+
+###
+<h3 align="left"> Extended Abstracts </h3>
+
+###
+<h4 align="left">2026, forthcoming &nbsp;<i> Growing HOLMS: Grzegorczyk Logic and Experiments with Translations in HOL Light</i></h4>
+
+###
+
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "Growing HOLMS: Grzegorczyk Logic and Experiments with Translations in HOL Light", <i>Book of Abstract of Women in Logic 2026</i></p>
+
+###
+
+<h4 align="left">2025 &nbsp;<i><a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EdtzuTRYSm5DrdTU-XglSP8BZkR4N-x_KauVp2YiEsrqgg?e=IpzlMM" target="_blank">Growing a Modular Framewok for Modal Systems: HOLMS</a></i></h4>
+
+###
+
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2025, "Growing a Modular Framewok for Modal Systems: HOLMS", <i>Book of Abstract of Women in Logic 2025</i>,  pp. 7-11.</p>
+
+###
+
+<h2 align="left">Talks </h2>
+
+###
+
+<p align="left">Note: Slides for these presentations are attached to the asterisk.</p>
+
+###
+
+<h3 align="left"><a href="" target="_blank">SNS Spring Seminars</a>: <i>Growing HOLMS- The Library and Translational Method for Grz</i> <a href="https://drive.google.com/file/d/1DUlyBgzdUgxFzs40w7qw-v5mgHPjVDEj/view?usp=sharing" target="_blank">*</a> </h3>
+
+###
+
+<h5 align="left">[ 19 May 2026 ] &nbsp;Pisa, IT</h5>
+
+###
+
+<h3 align="left"><a href="" target="_blank">SNS Exam Seminars</a>: <i>Intuitionistic Gödel-Löb logic- An (Un)Provability Logic, its Semantics and Proof Theory</i> <a href="https://drive.google.com/file/d/12SDkfA3DVX_nAudkFoz_0ubxLp6reZx_/view?usp=sharing" target="_blank">*</a> </h3>
+
+###
+
+<h5 align="left">[ 14 May 2026 ] &nbsp;Pisa, IT</h5>
+
+###
+
+<h3 align="left"><a href="" target="_blank">SNS Exam Seminars</a>: <i>Philosophical and Technical Reflection on the Technological Turn in Mathematics</i> <a href="https://drive.google.com/file/d/1sqN773C5qaG1fYWMucmUKdpTDHLSvfR7/view?usp=sharing" target="_blank">*</a> </h3>
+
+###
+
+<h5 align="left">[ 5 May 2026 ] &nbsp;Pisa, IT</h5>
+
+###
+
+<h3 align="left"><a href="https://csl2026.github.io/" target="_blank">CSL 2026</a>: <i>Growing HOLMS- GL, the Cube and Certified Models</i> <a href="https://drive.google.com/file/d/1RnNgdZQGUx0oBK40Y4-G_w-lDC_ALxwC/view?usp=sharing" target="_blank">*</a> </h3>
+
+###
+
+<h5 align="left">[ 23 Feb 2026 – 27 Feb 2026 ] &nbsp;Paris, FR</h5>
+
+###
+
+<h3 align="left"><a href="https://ictcs2025.unich.it/" target="_blank">ICTCS 2025</a>: <i>A Modular Proof of Semantic Completeness for Systems beyond the Cube, Formalised in HOLMS</i><a href="https://drive.google.com/file/d/1niJI42GMCgGP7TfGVUtcw_NiGb8cqtM4/view" target="_blank">*</a></h3>
+
+###
+
+<h5 align="left">[ 10 Sep 2025 – 12 Sep 2025 ] &nbsp;Pescara, IT</h5>
+
+###
+
+<h3 align="left"><a href="https://sites.google.com/view/wil2025/home" target="_blank">Women in Logic 2025</a>: <i>Growing HOLMS- GL and the Cube</i> <a href="https://drive.google.com/file/d/1IU-zT0WePrNoYwhJFGfrahLi9APRbBOj/view" target="_blank">*</a> </h3>
+
+###
+
+<h5 align="left">[ 14 Jul 2025 – 18 Jul 2025 ] &nbsp;Birmingham, UK</h5>
+
+###
+
+<h2 align="left">Attended Workshops and Conferences</h2>
+
+###
+
+<h3 align="left"><a href="https://aitpm.github.io/" target="_blank">Workshop on AI and Theorem Provers in Mathematics</a>
+
+###
+<h5 align="left">[ 8-10 Apr 2026 ] &nbsp; Online </h5>
+
+###
+
+
+<h3 align="left"><a href="https://ps60.logicverona.it/" target="_blank">Taming the Infinite: Logic, Algebra and Constructive Mathematics</a>
+
+###
+
+<h5 align="left">[ 20 Apr 2026 ] &nbsp; Verona, IT</h5>
 
 ###
 
@@ -222,24 +305,17 @@ Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0
 
 ###
 
-
-<h2 align="left">Schools, Workshops and Seminars</h2>
-
-###
-
-<h3 align="left"><a href="https://aitpm.github.io/" target="_blank">Workshop on AI and Theorem Provers in Mathematics</a>
+<h3 align="left"><a href="https://www.hf.uio.no/ifikk/english/research/projects/c-fors/events/conferences/approaches-to-predicativity.html" target="_blank">Workshop on new approaches to predicativity</a></h3>
 
 ###
-<h5 align="left">[ 8-10 Apr 2026 ] &nbsp; Online </h5>
+
+<h5 align="left">[ 17 Sep 2024 – 18 Sep 2024 ] &nbsp;Firenze, IT</h5>
 
 ###
 
 
-<h3 align="left"><a href="https://ps60.logicverona.it/" target="_blank">Taming the Infinite: Logic, Algebra and Constructive Mathematics</a>
 
-###
-
-<h5 align="left">[ 20 Apr 2026 ] &nbsp; Verona, IT</h5>
+<h2 align="left">Attended Schools and Seminars</h2>
 
 ###
 
@@ -251,19 +327,12 @@ Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0
 
 ###
 
+
 <h3 align="left"><a href="https://naproche.github.io/school/" target="_blank">EuroProofNet School on Natural Formal Mathematics</a></h3>
 
 ###
 
 <h5 align="left">[ 3 Jun 2025 – 5 Jun 2025 ] &nbsp;Bonn, DE</h5>
-
-###
-
-<h3 align="left"><a href="https://www.hf.uio.no/ifikk/english/research/projects/c-fors/events/conferences/approaches-to-predicativity.html" target="_blank">Workshop on new approaches to predicativity</a></h3>
-
-###
-
-<h5 align="left">[ 17 Sep 2024 – 18 Sep 2024 ] &nbsp;Firenze, IT</h5>
 
 ###
 
