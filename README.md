@@ -204,11 +204,11 @@ July 26-29, 2026, Lisbon (Portugal).</p>
 
 ###
 
-<h3 align="left"><a href="" target="_blank">SNS Spring Seminars</a>: <i>Growing HOLMS- The Library and Translational Method for Grz</i> <a href="https://drive.google.com/file/d/1DUlyBgzdUgxFzs40w7qw-v5mgHPjVDEj/view?usp=sharing" target="_blank">*</a> </h3>
+<h3 align="left"><a href="https://pacman.logicverona.it/2026.html" target="_blank">PACM∧N 2026</a><a href="https://drive.google.com/file/d/19Aigewikboog-L-r59G8F4vXQq2Mwh87/view?usp=drive_link" target="_blank">*</a> & <a href="" target="_blank">SNS Spring Seminars</a><a href="https://drive.google.com/file/d/1DUlyBgzdUgxFzs40w7qw-v5mgHPjVDEj/view?usp=sharing" target="_blank">*</a>: <i>Growing HOLMS- The Library and Translational Method for Grz</i> </h3>
 
 ###
 
-<h5 align="left">[ 19 May 2026 ] &nbsp;Pisa, IT</h5>
+<h5 align="left">[ 11 June 2026 ] &nbsp;Verona, IT & [ 19 May 2026 ] &nbsp;Pisa, IT</h5>
 
 ###
 
@@ -253,6 +253,15 @@ July 26-29, 2026, Lisbon (Portugal).</p>
 ###
 
 <h2 align="left">Attended Workshops and Conferences</h2>
+
+###
+
+<h3 align="left"><a href="https://pacman.logicverona.it/2026.html" target="_blank">PACM∧N 26: Proof, Argumentation, Computation, Modalities and Negation</a><a href="https://drive.google.com/file/d/19Aigewikboog-L-r59G8F4vXQq2Mwh87/view?usp=drive_link" target="_blank">*</a>
+
+###
+
+<h5 align="left">[ 10-12 June 2026 ] &nbsp; Verona, IT</h5>
+
 
 ###
 
@@ -316,6 +325,12 @@ Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0
 
 
 <h2 align="left">Attended Schools and Seminars</h2>
+
+###
+
+<h3 align="left"><a href="https://www.sns.it/it/evento/perspectives-research-logic" target="_blank">Perspective on Research in Logic</a> SNS Summer School </h3>
+
+###
 
 ###
 
