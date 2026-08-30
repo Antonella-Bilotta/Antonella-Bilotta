@@ -135,7 +135,7 @@ This multidisciplinary approach enabled me to write a <strong>thesis</strong> ex
 
 ###
 
-<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, D, T, B, S4, S5, and GL, toghether with Grz implemented via modal translations. We aim to further extend the framework by mechanising additional modal logics (e.g., provability and intuitionistic logics), experimenting with different mechanisation techniques (e.g., modal translations), and developing a proof-theoretic analysis within the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, presented at <strong><i>ICTCS 2025</i></strong>;<br>- An <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.18" target="_blank">extended paper</a> describing the whole framework and introducing certified countermodels, presented at <strong><i>CSL 26</i></strong>;<br>- An <a href="https://flore.unifi.it/handle/2158/1473915" target="_blank">extended paper </a> experimenting with modal translations and implementing Grz, accepted at <strong><i>IJCAR 26</i></strong>.</p>
+<p align="left">Since its beginnings, I have been part of the <a href="https://holms-lib.github.io/" target="_blank">HOLMS research project </a>, which focuses on the <strong>mechanisation of modal logics</strong> with the aid of <strong>interactive theorem provers</strong>.  <a href="https://github.com/HOLMS-lib/HOLMS" target="_blank">HOLMS library</a> currently provide the mechanisation of the normal modal logics K, K4, D, T, B, S4, S5, and GL, toghether with Grz implemented via modal translations. We aim to further extend the framework by mechanising additional modal logics (e.g., provability and intuitionistic logics), experimenting with different mechanisation techniques (e.g., modal translations), and developing a proof-theoretic analysis within the framework.<br><br>As part of this project, I developed my <a href="https://arxiv.org/abs/2506.10048" target="_blank">Master’s thesis</a>, contributed to <strong>code</strong> and <strong>website development</strong>, and <strong>co-authored</strong> the following papers:<br>- A <a href="https://ceur-ws.org/Vol-3904/paper5.pdf" target="_blank">communication paper</a> introducing the first version of HOLMS at <strong><i>OVERLAY 2024</i></strong>;<br>- A <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/ucacepi_ucl_ac_uk/EewYzhqOjRtGnxw2pPoTCywBoBN5G6LsKNm_DsxknEdiAQ?e=V8YYPC" target="_blank">long abstract</a> outilining some implementation features of the framework, presented at <strong><i>Women in Logic 2025</i></strong>;<br>- A <a href="https://ictcs2025.unich.it/paperICTCS2025Pescara/ICTCS_2025_Camera_ready_10.pdf" target="_blank">communication paper</a> reporting the results of my thesis and completeness proofs for additional  logics, presented at <strong><i>ICTCS 2025</i></strong>;<br>- A <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CSL.2026.18" target="_blank"> paper</a> describing the whole framework and introducing certified countermodels, presented at <strong><i>CSL 26</i></strong>;<br>- A <a href="https://link.springer.com/chapter/10.1007/978-3-032-32589-1_25" target="_blank"> paper </a> and a <a href="https://drive.google.com/file/d/1pshKxvEb9FkH9AttcAwu3cfULkXepdOM/view?usp=sharing" target="_blank">long abstract</a> experimenting with modal translations and Grz, presented at <strong><i>IJCAR 26</i></strong> and <strong><i>Women in Logic 26</i></strong>, respectively.</p>
 
 ###
 
@@ -145,12 +145,11 @@ This multidisciplinary approach enabled me to write a <strong>thesis</strong> ex
 <h3 align="left"> In Conference Proceedings</h3>
 
 ###
-<h4 align="left">2026, forthcoming &nbsp;<i><a href="https://flore.unifi.it/handle/2158/1473915" target="_blank"> Growing HOLMS: A Verified Automated Prover for Grzegorczyk Logic in HOL Light</a></i></h4>
+<h4 align="left">2026, &nbsp;<i><a href="https://link.springer.com/chapter/10.1007/978-3-032-32589-1_25" target="_blank"> Growing HOLMS: A Verified Automated Prover for Grzegorczyk Logic in HOL Light</a></i></h4>
 
 ###
 
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "Growing HOLMS: A Verified Automated Prover for Grzegorczyk Logic in HOL Light", <i>In Proceedings of the International Joint Conference on Automated Reasoning (IJCAR 2026)</i>
-July 26-29, 2026, Lisbon (Portugal).</p>
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "Growing HOLMS: A Verified Automated Prover for Grzegorczyk Logic in HOL Light", <i> In: Biere, A., Lutz, C., Negri, S. (eds) Automated Reasoning. IJCAR 2026.</i> Lecture Notes in Computer Science, vol 16688, pp. 414-435 Springer, Cham.</p>
 
 ###
 
@@ -180,11 +179,11 @@ July 26-29, 2026, Lisbon (Portugal).</p>
 <h3 align="left"> Extended Abstracts </h3>
 
 ###
-<h4 align="left">2026, forthcoming &nbsp;<i> Growing HOLMS: Grzegorczyk Logic and Experiments with Translations in HOL Light</i></h4>
+<h4 align="left">2026, &nbsp;<i><a href="https://drive.google.com/file/d/1pshKxvEb9FkH9AttcAwu3cfULkXepdOM/view" target="_blank"> Growing HOLMS: Grzegorczyk Logic and Experiments with Translations in HOL Light<a/></i></h4>
 
 ###
 
-<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "Growing HOLMS: Grzegorczyk Logic and Experiments with Translations in HOL Light", <i>Book of Abstract of Women in Logic 2026</i></p>
+<p align="left">A. Bilotta, M. Maggesi, C. Pierini Brogi, 2026, "Growing HOLMS: Grzegorczyk Logic and Experiments with Translations in HOL Light", <i>Book of Abstract of Women in Logic 2026</i>, pp. 16-20</p>
 
 ###
 
@@ -201,6 +200,16 @@ July 26-29, 2026, Lisbon (Portugal).</p>
 ###
 
 <p align="left">Note: Slides for these presentations are attached to the asterisk.</p>
+
+###
+
+<h3 align="left"><a href="https://www.floc26.org/ijcar" target="_blank">IJCAR 2026</a><a href="https://drive.google.com/file/d/1UPVQ8hhVWdmQU9W-FXbJ110GL98RDn2-/view?usp=sharing" target="_blank">*</a> & <a href="https://womeninlogic.org/workshops/2026/" target="_blank">WiL 26</a><a href="https://drive.google.com/file/d/1pFa1gygVVJpuRBxdB6HNedZGsPevZa27/view?usp=sharing" target="_blank">*</a>: <i>Growing HOLMS- A Verified Automated Prover
+for Grzegorczyk Logic in HOL Light</i> </h3>
+
+###
+
+<h5 align="left">[ 24, 27 July 2026 ] &nbsp;Lisboa, PT </h5>
+
 
 ###
 
@@ -256,7 +265,22 @@ July 26-29, 2026, Lisbon (Portugal).</p>
 
 ###
 
-<h3 align="left"><a href="https://pacman.logicverona.it/2026.html" target="_blank">PACM∧N 26: Proof, Argumentation, Computation, Modalities and Negation</a><a href="https://drive.google.com/file/d/19Aigewikboog-L-r59G8F4vXQq2Mwh87/view?usp=drive_link" target="_blank">*</a>
+<h3 align="left"><a href="https://www.floc26.org/" target="_blank">FLoC 26: Federated LOgic Conference </a></h3>
+
+###
+
+<h4 align="left"><a href="https://www.floc26.org/ijcar" target="_blank">IJCAR 26: International Joint Conference on Automated Reasoning</a> °° <a href="https://itp-conference-2026.github.io/index.html" target="_blank">ITP 26: Conference on Interactive Theorem Proving</a>, </h4> 
+<h4 align="left"><a href="https://womeninlogic.org/workshops/2026/" target="_blank">Women in Logic 26</a> °° <a href="https://sketis.net/isabelle/isabelle-workshop-2026" target="_blank">Isabelle Workshop 26</a> °° <a href="https://leanprover-community.github.io/floc-2026-lean-workshop/" target="_blank">Lean Workshop 26</a> °° <a href="https://sonia-marin.github.io/imla26/" target="_blank"> Intuitionistic Modal Logic and Applications Workshop 26</a>, </h4>
+
+
+###
+
+<h5 align="left">[ 24-30 July 2026 ] &nbsp; Lisboa, PT</h5>
+
+
+###
+
+<h3 align="left"><a href="https://pacman.logicverona.it/2026.html" target="_blank">PACM∧N 26: Proof, Argumentation, Computation, Modalities and Negation</a><a href="" target="_blank">*</a>
 
 ###
 
@@ -377,7 +401,15 @@ Computer Science Logic)</i><a href="https://drive.google.com/file/d/1RnNgdZQGUx0
 
 ###
 
-<h2 align="left">Networks and Memberships</h2>
+<h2 align="left">Networks and Memberships et al</h2>
+
+###
+
+<h3 align="left">FLOC 26</h3>
+
+###
+
+<p align="left">Student Volunteer at <a href="https://www.floc26.org/" target="_blank"> Federated Logic Conference </a>.</p>
 
 ###
 
